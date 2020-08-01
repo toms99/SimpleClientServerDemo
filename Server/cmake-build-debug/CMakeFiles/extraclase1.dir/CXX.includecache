@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tomas/CLionProjects/extraclase1/Dijkstra.h
+limits.h
+-
+stdio.h
+-
+iostream
+-
+
+/home/tomas/CLionProjects/extraclase1/main.cpp
+unistd.h
+-
+stdio.h
+-
+sys/socket.h
+-
+stdlib.h
+-
+netinet/in.h
+-
+string.h
+-
+iostream
+-
+cstring
+-
+Dijkstra.h
+/home/tomas/CLionProjects/extraclase1/Dijkstra.h
+
